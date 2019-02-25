@@ -1,0 +1,9 @@
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\bin\Debug\PUBG Pack Loader.exe.config
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\bin\Debug\PUBG Pack Loader.exe
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\bin\Debug\PUBG Pack Loader.pdb
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\obj\Debug\PUBG Pack Loader.csprojAssemblyReference.cache
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\obj\Debug\PUBG Pack Loader.csproj.CoreCompileInputs.cache
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\obj\Debug\PUBG Pack Loader.exe
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\obj\Debug\PUBG Pack Loader.pdb
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\obj\Debug\PUBG_Pack_Loader.Properties.Resources.resources
+C:\Users\steal\source\repos\PUBG Pack Loader\PUBG Pack Loader\obj\Debug\PUBG Pack Loader.csproj.GenerateResource.cache
